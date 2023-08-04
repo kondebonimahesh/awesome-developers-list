@@ -41,6 +41,7 @@
 - [Abhijith KR - Web Developer](https://github.com/abhi7745)
 - [Josefine Schaefer - Developer Relations Engineer](https://github.com/josefineschaefer)
 - [Rose Newman 🌱 Javascript & React](https://github.com/rosalie0)
-- [kondeboni mahesh - Ai || Ml || Cybersecurity](https://github.com/kondebonimahesh)
 - [Musa Shedrach - React || Next.js || Tailwind CSS](https://github.com/sheddy450)
+- [kondeboni mahesh - Ai || Ml || Cybersecurity](https://github.com/kondebonimahesh)
+- [kondeboni mahesh - Ai || Ml || Cybersecurity](https://github.com/kondebonimahesh)
 
